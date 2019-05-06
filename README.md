@@ -4,7 +4,7 @@
 
 1.**Zippy** (50pts)
 
-  In this challenge, I was given a zip file and a message:
+  In this challenge, we were given a zip file and a message:
   > Got a zip file, but our stupid admin, Blue, couldn't even open it. Can you?
   
   When I tried to unzip the zip file, got nothing but an error. Then I checked with <tt>file</tt> command to know it is zip file or something else. (Don't trust extensions LOL!:joy:)
