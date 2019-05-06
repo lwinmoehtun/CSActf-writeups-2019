@@ -2,7 +2,7 @@
 
 ### Forensics
 
-1.**Zippy** (50pts)
+ **Zippy** (50pts)
 
   In this challenge, we were given a zip file and a message:
   > Got a zip file, but our stupid admin, Blue, couldn't even open it. Can you?
