@@ -15,7 +15,7 @@
   
   ![alt bless](https://github.com/Towtex/CSActf-writeups-2019/blob/master/zippy/bless.png)
   
-  After googling, I found the structure a zip file ![here](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip.html "The structure of a PKzip file")
+  After googling, I found the structure a zip file [here](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip.html "The structure of a PKzip file")
   
   ![alt zip-structure](https://github.com/Towtex/CSActf-writeups-2019/blob/master/zippy/zip-structure)
   
