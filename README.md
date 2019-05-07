@@ -7,7 +7,7 @@
   In this challenge, we were given a zip file and a message:
   > Got a zip file, but our stupid admin, Blue, couldn't even open it. Can you?
   
-  When I tried to unzip the zip file, got nothing but an error. Then I checked with <tt>file</tt> command to know it is zip file or something else. (Don't trust extensions LOL!:joy:)
+  When I tried to unzip the [zip file](zippy/flag.zip), got nothing but an error. Then I checked with <tt>file</tt> command to know it is zip file or something else. (Don't trust extensions LOL!:joy:)
   
   ![alt file](https://github.com/Towtex/CSActf-writeups-2019/blob/master/zippy/file)
   
