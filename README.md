@@ -13,23 +13,23 @@
   
   OK, it is a zip file. Let's check with <tt>bless</tt> or your favourite hex editor.
   
-  ![alt bless](https://github.com/Towtex/CSActf-writeups-2019/blob/master/zippy/bless.png)
+  ![alt bless](zippy/bless.png)
   
   After googling, I found the structure a zip file [here](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip.html "The structure of a PKzip file")
   
-  ![alt zip-structure](https://github.com/Towtex/CSActf-writeups-2019/blob/master/zippy/zip-structure)
+  ![alt zip-structure](zippy/zip-structure)
   
   But our zip file is missing **50 4B 03 04**.
   
-  ![alt bless](https://github.com/Towtex/CSActf-writeups-2019/blob/master/zippy/bless)
+  ![alt bless](zippy/bless)
   
   Let's add these magic number in it.
   
-  ![alt bless-edited](https://github.com/Towtex/CSActf-writeups-2019/blob/master/zippy/bless-edited)
+  ![alt bless-edited](zippy/bless-edited)
   
   Then extract the zip...
   
-  ![alt flag](https://github.com/Towtex/CSActf-writeups-2019/blob/master/zippy/flag.png)
+  ![alt flag](zippy/flag.png)
   
   Bingo! We got the flag.
   
