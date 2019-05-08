@@ -40,7 +40,7 @@
  ### Monkey (~~496pts~~)(68pts)
   Before I solve this challenge, it was 496pts but after I solved it, it changed to 68pts.:joy:
   
-  This challenge give us a pcapng file named [monkey](monkey/monkey.pcapng) and this message:
+  This challenge gives us a pcapng file named [monkey](monkey/monkey.pcapng) and this message:
   > Have you ever heard of the Infinite Monkey Theorem?
 Anyway, we have a pcap. Can you retrieve the flag from it?
 
