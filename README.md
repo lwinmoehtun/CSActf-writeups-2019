@@ -67,7 +67,7 @@ Anyway, we have a pcap. Can you retrieve the flag from it?
  
  https://wiki.osdev.org/USB_Human_Interface_Devices
  
- I wrote a script in python3, by utilizing [this](https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2), to convert usb.capdata to keystokes which were pressed by user. **Thank you, MigthyPork.**
+ I wrote a script in python3, by utilizing [this](https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2), to convert usb.capdata to keystokes which were pressed by user. **Thank you, MigthyPork.**:blush:
  
  [Here](monkey/script.py) is my script.
  
@@ -82,7 +82,7 @@ Anyway, we have a pcap. Can you retrieve the flag from it?
 The reasoning behind that supposition is that, given infinite time, random input should produce all possible output.
 
 First, I replaced *CSSSCTF* with *CSACTF* and removed extra letters. 
-Then I followed the user's typing keys. After **}** user press 4 **left arrows**, **delete o** by pressing *backspace* not *delete key* and press **0**; press 9 **left arrows**,.....,press *1*.  
+Then I followed the user's typing keys. After **}** user pressed 4 **left arrows**, deleted **o** by pressing *backspace* not *delete key* and pressed **0**; pressed 9 **left arrows**,.....,pressed *1*.  
 
 ![alt flag](monkey/flag)
 
