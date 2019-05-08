@@ -86,8 +86,6 @@ Then I followed the user's typing keys. After **}** user press 4 **left arrows**
 
 ![alt flag](monkey/flag)
 
-Finally, we got the flag.:joy:
+Finally, we got the flag.:blush:
 
 *CSACTF{the_1nf1n1te_m0nkey_the0rem}*
-
-**P.S: This challenge is my second ctf forensics challenge in my life after zippy. Before this, I don't even know what pcap is and how to analyze it. Honestly, it took 17 hours for me to solve this challenge.** :blush:
