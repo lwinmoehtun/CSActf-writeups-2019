@@ -37,8 +37,9 @@
 
 ---
 
- ### Monkey (68pts)
- 
+ ### Monkey (~~496pts~~)(68pts)
+  Before I solve this challenge, it was 496pts but after I solved it, it changed to 68pts.:joy:
+  
   This challenge give us a pcapng file named [monkey](monkey/monkey.pcapng) and this message:
   > Have you ever heard of the Infinite Monkey Theorem?
 Anyway, we have a pcap. Can you retrieve the flag from it?
@@ -74,7 +75,7 @@ Anyway, we have a pcap. Can you retrieve the flag from it?
  
  ![alt py-script.png](monkey/py-script.png)
  
- *CSSSCTF{the_inffinitee_monkeey_theoreem}* looks like a flag. After reading about Infinite Monkey Theorem, I thought that I need to edit this pre-flag.
+ *CSSSCTF{the_inffinitee_monkeey_theoreem}* looks like a flag. After reading about Infinite Monkey Theorem, I thought that I need to edit this pre-flag. (*If you do manual conversion, you will get this, CSACTF{the_infinite_monkey_theorem}. This is because I used only byte 1 and byte 3 of usb.capdata in my script*)
  
  Note:
  > The Infinite Monkey Theorem is a proposition that an unlimited number of monkeys, given typewriters and sufficient time, will eventually produce a particular text, such as Hamlet or even the complete works of Shakespeare.
@@ -85,6 +86,8 @@ Then I followed the user's typing keys. After **}** user press 4 **left arrows**
 
 ![alt flag](monkey/flag)
 
-Finally, we got the flag.
+Finally, we got the flag.:joy:
 
 *CSACTF{the_1nf1n1te_m0nkey_the0rem}*
+
+**P.S: This challenge is my second ctf forensics challenge in my life after zippy. Before this, I don't even know what pcap is and how to analyze it. Honestly, it took 17 hours for me to solve this challenge.** :blush:
